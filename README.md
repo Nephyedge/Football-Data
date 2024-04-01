@@ -1,3 +1,29 @@
-# Football-Data
+# Football Transfers Analysis in Excel
 
-nsdjhdjfeuie
+## Case Description
+This Football Transfers Analysis in Excel project involves extensive data analysis of the intricacies and economic patterns within international football (‘soccer’ in the US) transfers. It delves into the movement of players from one association to another, offering an in-depth overview of the economics of international football.
+
+Using a robust football dataset spanning two seasons (2021/2022 and 2022/2023), the analyst is asked to perform several key tasks in Excel—including data preprocessing and manipulation, filtering, working with Excel functions proficiently, and data visualization.
+
+Students working on this project will map transfers to and from countries across different associations, create summary tables to illustrate these transfers, compute net transfer movements, and obtain the total dollar amounts for the respective transactions.
+
+This Excel project offers a unique opportunity to blend the passion for football with the excitement of data-driven insights, fostering a deeper understanding of the global football economy. Whether you're a football enthusiast, a data analysis student, or both, this Excel project promises intriguing findings and a new perspective on this captivating game. It’s the perfect opportunity to validate several essential Excel skills you learned in the Introduction to Excel course.
+
+## Project Requirements
+Anyone undertaking this project needs beginner and intermediate Excel skills to complete the tasks.
+
+## Project Files
+The dataset offers detailed information about football transfers. This includes specifics on the season in question, the quantity of incoming and outgoing transfers, the continents associated with both incoming and outgoing transfers, the overall count of transfers, and the cumulative compensation between clubs.
+
+## Featured Tools
+Excel Formulaas like:
+-Vlookup
+-SumIF
+-Sum
+
+and features like:
+-Creating tables
+-Linking multiple sheets
+
+## Topics Covered
+Introduction to Excel
