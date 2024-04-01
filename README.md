@@ -16,14 +16,9 @@ Anyone undertaking this project needs beginner and intermediate Excel skills to 
 The dataset offers detailed information about football transfers. This includes specifics on the season in question, the quantity of incoming and outgoing transfers, the continents associated with both incoming and outgoing transfers, the overall count of transfers, and the cumulative compensation between clubs.
 
 ## Featured Tools
-Excel Formulaas like:
--Vlookup
--SumIF
--Sum
+Excel Formulaas like Vlookup, SumIF, Sum
 
-and features like:
--Creating tables
--Linking multiple sheets
+and features like Creating tables, Linking multiple sheets
 
 ## Topics Covered
 Introduction to Excel
